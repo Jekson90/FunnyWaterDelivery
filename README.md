@@ -1,5 +1,5 @@
 # FunnyWaterDelivery
-Test application for interview. Check README for more details.
+Test application for interview.
 
 This application written on WPF with using EntityFramework. DataBase is MS SQL. For create DB run SQL request. It's contains Window with employees, departments and orders.
 The task:
